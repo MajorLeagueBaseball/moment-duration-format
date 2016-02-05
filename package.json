@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/jsmreese/moment-duration-format",
   "dependencies": {
-    "moment": "~2.10.3"
+    "moment": "~2.11.0"
   }
 }
